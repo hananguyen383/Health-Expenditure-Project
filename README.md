@@ -10,11 +10,11 @@
 
 **Results:** 
 
-Spending gap: In 2020, the highest-spending country spent 48 times as much per capita as the lowest-spending country. This gap narrowed to 39 times in 2022 and 9 times in 2024, indicating a substantial reduction in the relative spending gap between the highest and lowest values in the dataset.
+- Spending gap: In 2020, the highest-spending country spent 48 times as much per capita as the lowest-spending country. This gap narrowed to 39 times in 2022 and 9 times in 2024, indicating a substantial reduction in the relative spending gap between the highest and lowest values in the dataset.
 
-Highest-spending countries: The United States had the highest health expenditure per capita among the countries shown in 2020, 2022, and 2024. Switzerland, Germany, and Norway also consistently ranked among the top spenders.
+- Highest-spending countries: The United States had the highest health expenditure per capita among the countries shown in 2020, 2022, and 2024. Switzerland, Germany, and Norway also consistently ranked among the top spenders.
 
-Spending growth: Poland recorded the highest percentage growth among the five countries shown, at 70.68%, followed by Turkey at 67.08% and Slovakia at 64.19%. Chile and Slovenia also appeared among the top five countries for spending growth.
+- Spending growth: Poland recorded the highest percentage growth among the five countries shown, at 70.68%, followed by Turkey at 67.08% and Slovakia at 64.19%. Chile and Slovenia also appeared among the top five countries for spending growth.
 
 ## 📄 Full Report
 <img width="1611" height="1102" alt="Health Expenditure" src="https://github.com/user-attachments/assets/a714880b-1896-42c7-a9a3-4beb0cc43c55" />
