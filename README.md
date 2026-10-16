@@ -1,13 +1,19 @@
 # 📊 Health Expenditure Project
 
-**Goal:** This project analyzes health expenditure per capita across countries from 2022 to 2024 to identify spending trends, compare differences between countries, and determine which countries have the highest and lowest healthcare spending per person.
+**Goal:** To analyze health expenditure per capita across 52 countries from 2020 to 2024, identify the countries with the highest spending, compare differences between countries, and examine changes in spending over time.
 
-**Description:** This project uses publicly available data [publicly available data](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) on total health spending per capita in purchasing power parity (PPP) international dollars. The dataset contains spending figures for each country in 2022, 2023, and 2024. The project involves preparing and cleaning the data, analyzing healthcare expenditure using SQL, and visualizing spending patterns and differences across countries in Power BI.
+**Description:** This project uses [publicly available data](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) on health expenditure per capita in PPP international dollars across 52 countries from 2020 to 2024. Python and Pandas were used to collect and process the data through web scraping, followed by data cleaning and analysis using SQL Server. Power BI was used to visualize spending patterns, compare countries, and present key findings in an interactive dashboard.
 
-**Skill:** data cleaning, data analysis, data visualization
+**Skill:** Web scraping, data collection, data cleaning, data transformation, data analysis, SQL querying, ranking and comparison, percentage growth calculation, data visualization, dashboard development.
 
-**Technology:** SQL, PowerBI
+**Technology:** Python, Pandas, SQL Server, Microsoft Power BI, Excel.
 
-**Results:** The analysis shows 13K patient discharges with an average stay of 7 days. Most discharged patients were adults, male, and from urban areas. Outpatient admissions accounted for the majority of discharges, while discharge volumes remained relatively stable throughout the week, with lower activity on Sunday.
+**Results:** 
+
+Spending gap: In 2020, the highest-spending country spent 48 times as much per capita as the lowest-spending country. This gap narrowed to 39 times in 2022 and 9 times in 2024, indicating a substantial reduction in the relative spending gap between the highest and lowest values in the dataset.
+
+Highest-spending countries: The United States had the highest health expenditure per capita among the countries shown in 2020, 2022, and 2024. Switzerland, Germany, and Norway also consistently ranked among the top spenders.
+
+Spending growth: Poland recorded the highest percentage growth among the five countries shown, at 70.68%, followed by Turkey at 67.08% and Slovakia at 64.19%. Chile and Slovenia also appeared among the top five countries for spending growth.
 
 ## 📄 Full Report
